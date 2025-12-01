@@ -3,23 +3,24 @@
 I'm an Electrical Engineering undergraduate at **IIT Mandi** with a passion for technology, from web development to core circuit design.
 
 ---
--   🎓 **Education:** B.Tech in Electrical Engineering, IIT Mandi (3rd Year).
--   💻 **Software Interests:** Data Structures & Algorithms, Web Development, AI/ML, Deep Learning.
--   ⚡ **Core Interests:** Analog & Digital Circuit Design.
--   🌱 **Currently:** Building projects that merge my interests in software and hardware.
+- 🎓 **Education:** B.Tech in Electrical Engineering, IIT Mandi (3rd Year).
+- 💻 **Software Interests:** Data Structures & Algorithms, Web Development, AI/ML, Deep Learning.
+- ⚡ **Core Interests:** Analog & Digital Circuit Design.
+- 🌱 **Currently:** Building projects that merge my interests in software and hardware.
 
 ---
 ### 📌 Featured Project
 
--   **[DSA Visualizer](https://dsa-visualiser-psi.vercel.app/):** An interactive web app to visualize 20+ algorithms, built with Next.js & TypeScript.
+- **[DSA Visualizer](https://dsa-visualiser-psi.vercel.app/):** An interactive web app to visualize 20+ algorithms, built with Next.js & TypeScript.
 
 ---
 ### 📊 My GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhimnyu09&show_icons=true&theme=radical&rank_icon=github&cache_seconds=60" alt="abhimnyu09's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhimnyu09&show_icons=true&theme=radical&rank_icon=github" alt="abhimnyu09's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhimnyu09&layout=compact&theme=radical&cache_seconds=60" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhimnyu09&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
