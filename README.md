@@ -16,12 +16,9 @@ I'm an Electrical Engineering undergraduate at **IIT Mandi** with a passion for 
 ---
 ### 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhimnyu09&show_icons=true&theme=radical&rank_icon=github" alt="abhimnyu09's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhimnyu09&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhimnyu09&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhimnyu09&layout=compact&theme=radical)
 
 ---
 ### 📫 Connect with Me
