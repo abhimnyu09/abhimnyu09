@@ -56,6 +56,27 @@ I'm an Electrical Engineering undergraduate at **IIT Mandi** interested in build
 
 ---
 
+## Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/reQJnyVbNO/">
+  <img src="https://img.shields.io/badge/LeetCode-reQJnyVbNO-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" />
+</a>
+<a href="https://codeforces.com/profile/abhimanyusharma">
+  <img src="https://img.shields.io/badge/Codeforces-abhimanyusharma-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile" />
+</a>
+<a href="https://www.codechef.com/users/abhimanyu_09">
+  <img src="https://img.shields.io/badge/CodeChef-abhimanyu__09-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef profile" />
+</a>
+<a href="https://codolio.com/profile/abhimanyusharma">
+  <img src="https://img.shields.io/badge/Codolio-abhimanyusharma-2F80ED?style=for-the-badge" alt="Codolio profile" />
+</a>
+
+</div>
+
+---
+
 ## Featured Projects
 
 <table>
@@ -129,9 +150,9 @@ I'm an Electrical Engineering undergraduate at **IIT Mandi** interested in build
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhimnyu09/abhimnyu09/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhimnyu09/abhimnyu09/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/abhimnyu09/abhimnyu09/output/github-snake.svg" alt="Contribution snake animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
+  <img src="assets/github-snake.svg" alt="Contribution snake animation" />
 </picture>
 
 </div>
