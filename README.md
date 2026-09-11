@@ -14,11 +14,17 @@ I'm an Electrical Engineering undergraduate at **IIT Mandi** with a passion for 
 - **[DSA Visualizer](https://dsa-visualiser-psi.vercel.app/):** An interactive web app to visualize 20+ algorithms, built with Next.js & TypeScript.
 
 ---
-### 📊 My GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhimnyu09&show_icons=true&theme=radical&cache_seconds=0" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhimnyu09&layout=compact&theme=radical&cache_seconds=0" alt="Top Languages"/>
+  <a href="https://github.com/abhimnyu09">
+    <img src="https://img.shields.io/github/followers/abhimnyu09?label=Followers&style=social" alt="GitHub Followers"/>
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 </div>
 
 ---
