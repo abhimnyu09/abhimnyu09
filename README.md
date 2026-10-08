@@ -30,6 +30,7 @@ I'm an Electrical Engineering undergraduate at **IIT Mandi** interested in build
 - Also interested in **analog and digital circuit design**
 - Currently building **CareerPulse**
 - Building and improving **DSA Visualizer**, an interactive algorithm visualization project
+- Recently added **Portfolio**, a personal portfolio site built with TanStack Start, TypeScript, React, and Tailwind CSS
 
 ---
 
@@ -82,19 +83,45 @@ I'm an Electrical Engineering undergraduate at **IIT Mandi** interested in build
 <table>
   <tr>
     <td width="50%">
+      <h3>Portfolio</h3>
+      <p>Personal portfolio site built with TanStack Start, TypeScript, React, and Tailwind CSS.</p>
+      <p>
+        <a href="https://abhimanyusharma09.lovable.app">
+          <img src="https://img.shields.io/badge/Live%20Site-Visit-2F80ED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio live site" />
+        </a>
+        <a href="https://github.com/abhimnyu09/Portfolio">
+          <img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio source code" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
       <h3>DSA Visualizer</h3>
       <p>An interactive web app for visualizing 20+ algorithms, built with Next.js and TypeScript.</p>
       <p>
         <a href="https://dsa-visualiser-psi.vercel.app/">
           <img src="https://img.shields.io/badge/Live%20Demo-Visit-2F80ED?style=for-the-badge&logo=vercel&logoColor=white" alt="DSA Visualizer live demo" />
         </a>
+        <a href="https://github.com/abhimnyu09/DSA-Visualiser">
+          <img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="DSA Visualizer source code" />
+        </a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>CareerPulse</h3>
       <p>Current build focused on career workflows and software that helps turn job-search effort into a clearer system.</p>
       <p>
         <img src="https://img.shields.io/badge/Status-Current%20Build-27AE60?style=for-the-badge" alt="CareerPulse current build status" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>More Builds</h3>
+      <p>Continuing to build across software engineering, DSA, AI/ML, and systems.</p>
+      <p>
+        <a href="https://github.com/abhimnyu09?tab=repositories">
+          <img src="https://img.shields.io/badge/View%20Repositories-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub repositories" />
+        </a>
       </p>
     </td>
   </tr>
@@ -116,6 +143,8 @@ I'm an Electrical Engineering undergraduate at **IIT Mandi** interested in build
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/TanStack%20Start-FF4154?style=flat-square&logo=reactrouter&logoColor=white" alt="TanStack Start" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 
 ### AI/ML & Tools
